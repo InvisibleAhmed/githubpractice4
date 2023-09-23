@@ -48,6 +48,18 @@ class MyApp extends StatelessWidget {
                 'This is mod 5 Assignment',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold,),
               ),
+              Text(
+                'This is mod 5 Assignment',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold,),
+              ),
+              Text(
+                'This is mod 5 Assignment',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold,),
+              ),
+              Text(
+                'This is mod 5 Assignment',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold,),
+              ),
               SizedBox(height: 20),
               RichText(
                 text: TextSpan(
@@ -64,6 +76,14 @@ class MyApp extends StatelessWidget {
                     TextSpan(
                       text: 'name. ',
                       style: TextStyle(color: Colors.pink, fontSize: 18),
+                    ),
+                    TextSpan(
+                      text: 'Your Phone Name',
+                      style: TextStyle(color: Colors.orange, fontSize: 18),
+                    ),
+                    TextSpan(
+                      text: 'Your Phone Name',
+                      style: TextStyle(color: Colors.orange, fontSize: 18),
                     ),
                     TextSpan(
                       text: 'Your Phone Name',
